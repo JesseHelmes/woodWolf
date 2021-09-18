@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#W#",
+    "#W#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "woodwolf:dark_stone"
+    }
+  },
+  "result": {
+    "item": "woodwolf:dark_stone_fence_gate"
+  }
+}

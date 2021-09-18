@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "woodwolf:dark_stone"
+    }
+  ],
+  "result": {
+    "item": "woodwolf:dark_stone_button"
+  }
+}

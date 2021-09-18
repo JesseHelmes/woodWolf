@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " i ",
+    " i ",
+    " I "
+  ],
+  "key": {
+    "i": {
+      "item": "woodwolf:dark_stone"
+    },
+    "I": {
+      "item": "woodwolf:example_item"
+    }
+  },
+  "result": {
+    "item": "woodwolf:changeling_anti_magic_sword"
+  }
+}

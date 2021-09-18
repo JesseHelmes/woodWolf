@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "woodwolf:dark_stone"
+    }
+  },
+  "result": {
+    "item": "woodwolf:dark_stone_pressure_plate"
+  }
+}

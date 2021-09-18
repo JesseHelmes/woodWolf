@@ -1,0 +1,7 @@
+{
+    "variants": {
+	"type=bottom": { "model": "woodwolf:block/dark_stone_slab" },
+	"type=top": { "model": "woodwolf:block/dark_stone_slab_top" },
+	"type=double": { "model": "woodwolf:block/dark_stone" }
+    }
+}

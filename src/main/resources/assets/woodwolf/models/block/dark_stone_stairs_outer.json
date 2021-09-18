@@ -1,0 +1,8 @@
+{
+	"parent": "block/outer_stairs",
+	"textures": {
+		"bottom": "woodwolf:blocks/dark_stone",
+		"top": "woodwolf:blocks/dark_stone",
+		"side": "woodwolf:blocks/dark_stone"
+	}
+}

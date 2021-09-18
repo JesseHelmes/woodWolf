@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "woodwolf:dark_stone"
+  },
+  "result": "woodwolf:dark_stone_stairs",
+  "count": 1
+}

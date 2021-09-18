@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated", 
+	"textures": {
+		"layer0": "woodwolf:items/changeling_anti_magic_sword"
+	}
+}

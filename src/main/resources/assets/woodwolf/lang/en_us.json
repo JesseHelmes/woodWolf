@@ -1,0 +1,19 @@
+{
+	"item.woodwolf.example_item": "Wood wolf stick",
+	"item.woodwolf.test_item": "Test item",
+	"item.woodwolf.changeling_anti_magic_sword": "Changeling anti magic sword",
+	"item.woodwolf.woodwolf_spawn_egg": "Woodwolf spawn egg",
+
+	"block.woodwolf.dark_stone": "Dark stone",
+	"block.woodwolf.dark_stone_slab": "Dark stone slab",
+	"block.woodwolf.dark_stone_wall": "Dark stone wall",
+	"block.woodwolf.dark_stone_stairs": "Dark stone stairs",
+	"block.woodwolf.dark_stone_fence": "Dark stone fence",
+	"block.woodwolf.dark_stone_fence_gate": "Dark stone fence gate",
+	"block.woodwolf.dark_stone_button": "Dark stone button",
+	"block.woodwolf.dark_stone_pressure_plate": "Dark stone pressure plate",
+
+	"itemGroup.woodwolf": "WoodWolf",
+
+	"entity.woodwolf.woodwolf": "Wood wolf"
+}

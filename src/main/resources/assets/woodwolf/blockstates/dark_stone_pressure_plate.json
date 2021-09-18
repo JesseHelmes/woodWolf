@@ -1,0 +1,6 @@
+{
+    "variants": {
+	"powered=false": { "model": "woodwolf:block/dark_stone_pressure_plate" },
+	"powered=true": { "model": "woodwolf:block/dark_stone_pressure_plate_down" }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab_top",
+    "textures": {
+        "bottom": "woodwolf:blocks/dark_stone",
+        "top": "woodwolf:blocks/dark_stone",
+        "side": "woodwolf:blocks/dark_stone"
+    }
+}
