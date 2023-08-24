@@ -51,3 +51,46 @@ https://www.youtube.com/watch?v=8VEdtQLuLO0&feature=youtu.be
 
 For more details update more often refer to the Forge Forums:
 http://www.minecraftforge.net/forum/index.php/topic,14048.0.html
+
+
+This mod is basicly 2 mod ideas in 1
+the orignal is Woodwold with is the timberwolfs from My Little Pony
+and the changeling dark stone also from My Little Pony, this one came later
+
+Features
+- Items
+	- wood wolf sticks
+		- burn time 1600
+	- Changeling anti magic sword
+		- does not take damage
+		- clear active potions from all players in a range of 10 blocks when in inventory of a player
+	- Dark stone Block item
+		- clear active potions from all players in a range of 10 blocks when in inventory of a player
+- Blocks
+	- Dark stone
+		- can be found in Badlands, Default (don't know what this is)
+	- Dark stone stairs
+	- dark stone fence
+	- dark stone fence gate
+	- dark stone wall
+	- dark stone slab
+	- dark stone button
+	- dark stone pressure plate
+- Entities
+	- Wood wolf
+		- spawn egg
+		- spawn in biomes: Dark Forest, dark forest hills
+		- scares away creepers
+
+Planned features
+- when updating to new version remove MobSpawnEggItem as Forge has this
+- Woodwolf spawn from merged Woodwolf sticks
+- make a hive structure from the hive blocks
+- lose all effects when near a hive block
+- rename items and blocks
+- split mod into 2
+- rename example_item to woofwolf sticks in code
+- rename classes in code
+- remove unused code
+
+Known bugs
